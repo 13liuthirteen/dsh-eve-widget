@@ -2,6 +2,16 @@
 
 DeepSeek Harness（DSH）界面右下角的**伊薇**余额挂件。这是 [dsh-whale-widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) **0.3.17** 的个人定制分支：把原版角色换成了伊薇兔，点击音效换成「伊薇」语音并支持随机，任务结束音随机播放，动图换成伊薇 gif 随机池。
 
+## 一键安装
+
+把下面这行**原样发给你的 DSH**（桌面客户端或 `dsh web` 均可），agent 会自动完成下载与安装：
+
+```text
+安装 github:13liuthirteen/dsh-eve-widget#v0.1.1
+```
+
+> 已经装了原版鲸鱼挂件？没关系，两者可并存互不影响（见下文「与原插件并存的说明」）。
+
 ## 与上游（dsh-whale-widget 0.3.17）的差异
 
 |项|上游原版|本分支（伊薇）|
