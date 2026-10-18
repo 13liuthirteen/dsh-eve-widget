@@ -7,16 +7,16 @@
       "title": "伊薇余额挂件",
       "description": "DSH Web 界面右下角的伊薇余额挂件（dsh-whale-widget 的个人定制分支）：余额/今日已用/峰谷定价、自定义泡泡、伊薇随机按压音效、随机任务结束音、伊薇动图随机池、记账与多厂商余额",
       "repository": {
-        "url": "https://github.com/3298674469-shisan/dsh-eve-widget"
+        "url": "https://github.com/13liuthirteen/dsh-eve-widget"
       },
       "versions": [
         {
           "version": "0.1.1",
-          "publishTimestamp": 1792322780,
+          "publishTimestamp": 1792324683,
           "source": {
             "type": "git",
-            "url": "https://github.com/3298674469-shisan/dsh-eve-widget",
-            "commit": "7470268224c0eb7107390f76a30c1cff98d5de0c"
+            "url": "https://github.com/13liuthirteen/dsh-eve-widget",
+            "commit": "70c8e25e7da05118a59abc4029d3672c0815f02b"
           }
         }
       ]
